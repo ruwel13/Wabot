@@ -22,7 +22,7 @@
       "@sl-code-lords/text-pro-me": "^1.0.0",
       "@whiskeysockets/baileys": "git+https://github.com/20070808lk/Baileys",
       "@xaviabot/fb-downloader": "^1.0.14",
-      "api-dylux": "latest",
+      "api-dylux": "https://prabath-ytdl-scrapper.koyeb.app/api/mp3?url=https://youtu.be/6V62okYjrCc?si=b1aixBakGBYs1J5t",
       "async-g-i-s": "^1.4.0",
       "axios": "^1.2.5",
       "caliph-api": "^1.0.0",
