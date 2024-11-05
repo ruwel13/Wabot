@@ -3,7 +3,7 @@ const config = require('../config')
 const os = require('os')
 const { cmd, commands } = require('../command')
 const { getBuffer, getGroupAdmins, getRandom, h2k, isUrl, Json, runtime, sleep, Func, fetchJson} = require('../lib/functions')
-let cap = '> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴇɴᴇᴛʜ-ᴍᴅ ᴠ1 ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ®'
+let cap = '> ᴘᴏᴡᴇʀᴇᴅ ʙʏ WHITE-TIGER-MD ᴠ1 ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ®'
 //=====================================================================================
 cmd({
         pattern: "owner",
@@ -22,26 +22,20 @@ cmd({
     
     const txt =`👋*Hey* *${pushname}*,
 
-> ʙᴏᴛ ɴᴀᴍᴇ : ᴅᴇɴᴇᴛʜ-ᴍᴅ
+> ʙᴏᴛ ɴᴀᴍᴇ : WHITE TIGER MD
 > ᴠᴇʀꜱɪᴏɴ : 1.0.0
 > ʀᴜɴ ᴛɪᴍᴇ : ${runtime(process.uptime())}
 > ᴘʟᴀᴛꜰᴏʀᴍ : ${hostname}
-> ​🇨​​🇷​​🇪​​🇦​​🇹​​🇴​​🇷​ : ​🇩​​🇪​​🇳​​🇪​​🇹​​🇭​_​🇽​​🇩​
+> ​🇨​​🇷​​🇪​​🇦​​🇹​​🇴​​🇷​ : ​TEAM TIGER INC
 
-𝔍𝔬𝔦𝔫 𝔚𝔦𝔱𝔥 𝔐𝔢
-🪀 ᴡʜᴀᴛꜱᴀᴘᴘ : https://whatsapp.com/channel/0029Vamo0kT2ER6qNXgykO0B
-😺 ɢɪᴛʜᴜʙ : https://github.com/denethhansaka
-♦ ʏᴏᴜᴛᴜʙᴇ : https://youtube.com/@Deneth_Hansaka_Keerthirathna
-👨‍💻 ᴄᴏɴᴛᴀᴄᴛ : https://wa.me/94761864425
-
-> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴇɴᴇᴛʜ-ᴍᴅ ᴠ1 ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ®`
+> POWERED BY WHITE TIGER MD V1 WHTASAPP BOT®`
     
     let buttons = [{
                 name: "cta_url",
                 buttonParamsJson: JSON.stringify({
                     display_text: 'Owner',
-                    url: `https://wa.me/94774500937?text=*Hi_DENETH_XD🥵⃟💥⃝☙*`,
-                    merchant_url: `https://wa.me/94774500937?text=*Hi_DENETH_XD🥵⃟💥⃝☙*`
+                    url: `https://wa.me/94755335072`,
+                    merchant_url: `https://wa.me/94755335072`
           }),
       },
 
@@ -94,7 +88,7 @@ cmd({
             let monspace = '```'
             const sssf = `👋*Hey* *${pushname}* *I'm alive now.*
 
-ＤＥＮＥＴＨ－ＭＤ Ｖ１
+WHITE - TIGER - MD V1
 
 > ʙᴏᴛ ɴᴀᴍᴇ : ᴅᴇɴᴇᴛʜ-ᴍᴅ
 > ᴠᴇʀꜱɪᴏɴ : 1.0.0
@@ -102,7 +96,7 @@ cmd({
 > ᴍᴇᴍᴏʀʏ : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
 > ᴘʟᴀᴛꜰᴏʀᴍ : ${hostname}
 
-> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴇɴᴇᴛʜ-ᴍᴅ ᴠ1 ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ®`
+> ᴘᴏᴡᴇʀᴇᴅ ʙʏ WHITE-TIGER-MD-V1 ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ®`
 
             let buttons = [{
                     name: "cta_url",
@@ -155,9 +149,9 @@ cmd({
             else if (os.hostname().length == 8) hostname = 'koyeb'
             else hostname = os.hostname()
             let monspace = '```'
-            const sssf = `🛑 𝗥𝗨𝗟𝗘𝗦 𝗢𝗙 𝗗𝗘𝗡𝗘𝗧𝗛-𝗠𝗗 🛑
+            const sssf = `🛑 𝗥𝗨𝗟𝗘𝗦 𝗢𝗙 WHITE TIGER MD 🛑
 
-> ʙᴏᴛ ɴᴀᴍᴇ : ᴅᴇɴᴇᴛʜ-ᴍᴅ
+> ʙᴏᴛ ɴᴀᴍᴇ : WHITE-TIGER-MD V1 
 > ᴠᴇʀꜱɪᴏɴ : 1.0.0
 > ʀᴜɴ ᴛɪᴍᴇ : ${runtime(process.uptime())}
 > ᴘʟᴀᴛꜰᴏʀᴍ : ${hostname}
@@ -170,7 +164,7 @@ cmd({
     
 𝚃𝚑𝚊𝚗𝚔𝚜 𝙵𝚘𝚛 𝚁𝚎𝚊𝚍𝚒𝚗𝚐 𝙱𝚘𝚝 𝚁𝚞𝚕𝚎𝚜
 
-> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴇɴᴇᴛʜ-ᴍᴅ ᴠ1 ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ®`
+> ᴘᴏᴡᴇʀᴇᴅ ʙʏ WHITE TIGER MD 1 ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ®`
 
             let buttons = [{
                     name: "cta_url",
